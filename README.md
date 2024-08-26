@@ -25,7 +25,7 @@ I am constantly updating my knowledge and seeking new challenges in the technolo
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
 
-## statistics
+## statistics 📊
 ![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=Norgz&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norgz&layout=compact&theme=dark)
 ##
 
