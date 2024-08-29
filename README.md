@@ -27,6 +27,7 @@ I am constantly updating my knowledge and seeking new challenges in the technolo
 
 ## statistics 📊
 ![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=Norgz&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norgz&layout=compact&theme=dark)
+<a href="https://discord.com/users/810557068293570570"><img style="min-width: 134px; max-height: 134px;" width="320" src="https://lanyard.cnrad.dev/api/810557068293570570?theme=dark&bg=00000000&idleMessage=Dormindo...&hideTimestamp=false" /></a>
 ##
 
 <img src="https://raw.githubusercontent.com/Norgz/Norgz/output/snake.svg" alt="Snake animation" />
