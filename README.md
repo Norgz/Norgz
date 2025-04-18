@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Norgz
+# 👨🏻‍💻 Norgz
 
 **`Desenvolvedor Front End`**
 
