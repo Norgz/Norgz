@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-Me chamo Elielson Ferreira Silva, tenho 16 anos e sou de São Paulo. Cursando o ensino médio e o curso técnico em informática. Atualmente, estou estudando desenvolvimento web. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Norgz](https://www.youtube.com/@Norgzin)".
+Me chamo Elielson Ferreira Silva, tenho 17 anos e sou de São Paulo. Cursando o ensino médio e o curso técnico em informática. Atualmente, estou estudando desenvolvimento web. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Norgz](https://www.youtube.com/@Norgzin)".
 
 <a href="https://www.youtube.com/@Norgzin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/norgzyy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
